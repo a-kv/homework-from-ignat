@@ -1,0 +1,13 @@
+.Name {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 92px;
+    padding: 80px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    text-shadow:
+          4px 4px 0px rgba(0, 0, 0, 0.2);
+    transition: 1s;
+
+}
