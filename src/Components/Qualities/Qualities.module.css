@@ -1,0 +1,23 @@
+.container {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 52px;
+    padding: 10px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+.dif {
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 52px;
+    padding: 10px 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #019875;
+    letter-spacing: .05em;
+    text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.2);
+
+}
